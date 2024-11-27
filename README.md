@@ -11,7 +11,7 @@ This is a simple Streamlit app that uses the Dog CEO API to:
 ## How to Access the App
 You can access the app directly via the following link:
 
-[Dog Image Viewer App]([https://your-username-streamlit-app.streamlit.app](https://dog-image-viewer-kdiabxyfouhecgy22fjbgu.streamlit.app/))
+[Dog Image Viewer App](https://dog-image-viewer-kdiabxyfouhecgy22fjbgu.streamlit.app/)
 
 ## API Used
 - **Dog CEO API**: [https://dog.ceo/dog-api/](https://dog.ceo/dog-api/)
