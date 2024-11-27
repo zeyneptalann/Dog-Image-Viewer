@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Title of the app
-st.title("Random Dog Images")
+st.title("Dog Image Viewer")
 
 # API URL
 dog_api_url = "https://dog.ceo/api/breeds/image/random"
